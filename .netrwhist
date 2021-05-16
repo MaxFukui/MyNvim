@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/maxfukui/my-projects/pomoApp/estilos'
+let g:netrw_dirhist_9='/home/maxfukui/my-projects/pomoApp/components'
+let g:netrw_dirhist_8='/home/maxfukui/my-projects/pomoApp'
+let g:netrw_dirhist_7='/home/maxfukui/my-projects/pomoApp/components'
+let g:netrw_dirhist_6='/home/maxfukui/my-projects/pomoApp'
+let g:netrw_dirhist_5='/home/maxfukui/my-projects/pomoApp/estilos'
+let g:netrw_dirhist_4='/home/maxfukui/my-projects/pomoApp'
+let g:netrw_dirhist_3='/home/maxfukui/my-projects/pomoApp/assets'
+let g:netrw_dirhist_2='/home/maxfukui/my-projects/pomoApp'
+let g:netrw_dirhist_1='/home/maxfukui/my-projects/pomoApp/components'
